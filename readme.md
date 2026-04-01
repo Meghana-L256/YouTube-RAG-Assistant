@@ -170,7 +170,7 @@ What are the document chunking strategies?
 ## 👩‍💻 Author
 
 **Meghana L**
-AI Enthusiast | Developer | Hackathon Builder
+AI Enthusiast
 
 ---
 
